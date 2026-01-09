@@ -1,0 +1,9 @@
+[project]
+name = "smart-patrol"
+version = "0.1.0"
+description = "Smart Patrol Planner AI: hotspot prediction and route planning"
+requires-python = ">=3.10"
+readme = "docs/README.md"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
